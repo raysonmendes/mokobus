@@ -1,0 +1,83 @@
+*{
+	margin: 0; padding: 0;
+}
+body{
+	font-size: 62.5%;
+}
+form{
+	width: 100%;
+	height: auto;
+}
+
+#corpo {
+	text-align: center;
+	height: 97%;
+	position: absolute;
+	left: 0;
+	top: 70px;
+}
+#corpo div{
+	border: 3px;
+	border-color: white;
+}
+div{
+	
+	text-align: center;
+	vertical-align: 50%;
+	font-size: 500%;
+	font-family: roboto;
+	
+}
+a{
+	text-decoration: none;
+	color: #FFFFFF;	
+}
+img{
+	max-width: 100%;
+	width: auto%;
+	height: 50%;
+	size: 50%;
+}
+p{
+	text-align: justify;
+}
+.identificacao{
+	font-size: 20px;
+}
+#idonibus{
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:11;
+	background-color:#EF5350;
+	width:100%;
+	height:49.9%;
+	margin-right: 0px;
+	position-right:0px;
+	
+}
+#idpontos{	
+	position:absolute;
+	top:50%;
+	left:0;
+	z-index:11;
+	background-color:#64B5F6;
+	width:49.9%;
+	height:49.9%;	
+}
+
+#idinfo{
+	position:absolute;
+	top:50%;
+	left:50%;
+	z-index:11;
+	background-color:#43A047;
+	width:49.9%;
+	height:49.9%;	
+}
+
+div#imagens{
+	width: 49.9%;
+	height: 49.9%;
+	
+}
